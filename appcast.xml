@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ZephyrDeng/agent-pulse-releases/releases/download/v0.1.1/AgentPulse_v0.1.1_arm64.zip" length="3384181" type="application/octet-stream"/>
+            <enclosure url="https://github.com/ZephyrDeng/agent-pulse-releases/releases/download/v0.1.1/AgentPulse_v0.1.1_arm64.zip" length="3384172" type="application/octet-stream" sparkle:edSignature="GeKjgh49AzSPkAXEztTJ4kqtb9NO+0tAj3QkklnKBmvlMuYcVz+iomKkWPd1opaoFYWkh57/JJyjVQp3zpqZDQ=="/>
         </item>
     </channel>
 </rss>
