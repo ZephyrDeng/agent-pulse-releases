@@ -3,13 +3,13 @@
     <channel>
         <title>AgentPulse</title>
         <item>
-            <title>0.1.2</title>
-            <pubDate>Thu, 09 Jul 2026 10:06:05 +0800</pubDate>
-            <sparkle:version>0.1.2</sparkle:version>
-            <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
+            <title>0.1.3</title>
+            <pubDate>Thu, 09 Jul 2026 00:09:34 -0700</pubDate>
+            <sparkle:version>0.1.3</sparkle:version>
+            <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/ZephyrDeng/agent-pulse-releases/releases/download/v0.1.2/AgentPulse_v0.1.2_arm64.zip" length="3386827" type="application/octet-stream" sparkle:edSignature="a0EjH6EHAr0CvWdbL0XVZwPffHv6OgcegJKN6hYXvu7QXps5Cbs576hAZXe47GAtaJUTTXv4TNuURQnGYl1PBA=="/>
+            <enclosure url="https://github.com/ZephyrDeng/agent-pulse-releases/releases/download/v0.1.3/AgentPulse_v0.1.3_arm64.zip" length="3389017" type="application/octet-stream" sparkle:edSignature="t3Ghqp3yB7jijispGbXY9U+/FiMEj2yr7vIxDZ3DOuVIyvoxpR2VbqYezSmDRLualUTMZaGwH1TtPenpKhNNAw=="/>
         </item>
     </channel>
 </rss>
